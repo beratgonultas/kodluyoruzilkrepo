@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ### Fotoğraf
 
-![Ekran Görüntüsü](../Screenshot.png)
+![Ekran Görüntüsü](./Screenshot.png)
